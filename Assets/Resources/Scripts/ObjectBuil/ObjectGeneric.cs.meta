@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f12e657eec5cde74995a24aaa174438e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObjectCropPrefab: {fileID: 8262187875517592177, guid: 6363316db696c5c49ada69aa069e6fcd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
